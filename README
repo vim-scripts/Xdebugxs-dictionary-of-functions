@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1854
+
+This is simply  dictionary of Xdebug2 functions. So after install it you can use auto completion of these functions in your PHP scripts.
+
+For more details watch http://xdebug.org/
